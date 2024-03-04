@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Yogesh Sampathkumar and I'm a computer science student at Rutgers University. Here's some info about me!
+
 <!--
 **yoge1212/yoge1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
