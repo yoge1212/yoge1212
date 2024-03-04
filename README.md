@@ -4,9 +4,9 @@ My name is Yogesh Sampathkumar and I'm a computer science student at Rutgers Uni
 
 🌱 Interests:
 
-  Web Development
-  Machine Learning/AI
-  Data Science
+  - Web Development
+ -  Machine Learning/AI
+  - Data Science
 
   
 💬 Reach me by email or Linkedin! yogeshsamkumar@gmail.com | https://www.linkedin.com/in/yogeshsampathkumar/
