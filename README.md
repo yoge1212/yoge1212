@@ -1,12 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yogesh Sampathkumar</h1>
+<h3 align="center">I'm a computer science student at Rutgers University. Here's some info about me!</h3>
 
-My name is Yogesh Sampathkumar and I'm a computer science student at Rutgers University. Here's some info about me!
+- 🌎 I'm based in New Jersey
+- 🔭 I’m currently working on a mobile application where Rutgers students can efficiently buy and sell items.
+- 👯 I’m open to collaborating on projects
 
-🌱 Interests:
+- 🌱 Interests:
 
   - Web Development
- -  Machine Learning/AI
-  - Data Science
+   - Machine Learning/AI
+    - Data Science
 
   
 💬 Reach me by email or Linkedin! yogeshsamkumar@gmail.com | https://www.linkedin.com/in/yogeshsampathkumar/
@@ -17,12 +20,10 @@ My name is Yogesh Sampathkumar and I'm a computer science student at Rutgers Uni
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
