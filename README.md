@@ -2,7 +2,6 @@
 <h3 align="center">I'm a computer science student at Rutgers University. Here's some info about me!</h3>
 
 - 🌎 I'm based in New Jersey
-- 🔭 I’m currently working on a mobile application where Rutgers students can efficiently buy and sell items
 - 👯 I’m open to collaborating on projects
 
 - 🌱 Interests:
