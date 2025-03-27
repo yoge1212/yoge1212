@@ -6,4 +6,4 @@
 
 
   
-links: [email](yogeshsamkumar@gmail.com) | [linkedin](https://www.linkedin.com/in/yogeshsampathkumar/)
+links: [email](mailto:yogeshsamkumar@gmail.com) | [linkedin](https://www.linkedin.com/in/yogeshsampathkumar/)
