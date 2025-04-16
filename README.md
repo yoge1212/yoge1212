@@ -1,7 +1,7 @@
 <h1>yogesh sampathkumar</h1>
 
 - 20 yrs old
-- swe @ [oss](https://oss.rutgers.edu/#job-postings)
+- swe @ [oss](https://oss.rutgers.edu)
 - cs @ [Rutgers](https://www.rutgers.edu/)
 
 
